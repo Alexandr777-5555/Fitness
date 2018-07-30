@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="schedule">ПОЛУЧИТЬ РАСПИСАНИЕ</string>
+    <string name="load">ЗАГРУЗИТЬ </string>
+</resources>
